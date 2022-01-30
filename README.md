@@ -35,6 +35,10 @@ As the number of people between who the information is to be shared increases it
 
 ## Quick Tutorial
 
+## Link to Presentation Slides:
+[iquhack.pdf](https://github.com/st4eve/2022_qutech_challenge/files/7966348/iquhack.pdf)
+
+
 ## Our Experience at MIT iQuHACK 2022
 **Mark Long**:  
 
