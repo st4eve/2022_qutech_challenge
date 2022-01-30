@@ -27,7 +27,7 @@ OpenCV enables tracking and recognizing the QR codes from a user's camera. As me
 The UI was coded using PySimpleGUI. It involves very simple image display features and utilitizes the QR code recognition from openCV. 
 
 ## Native Socket Server
-
+A local socket server simulates data transmission between actors over the internet. The host of the meeting send the QR code to query the hospital data base (stored in the server), which will then get compressed with specific key of the intended receiver. The server then distributes the packages to all patients connected to the host and display information on the common screen of the virtual room. That said, only the intended receiver will see their medical results, others (with out the key generated from QKD, we not see the result. 
 
 ## VQE Client Host Optimization
 As the number of people between who the information is to be shared increases it becomes difficult to figure out the best possible and optimal way to set up quantum channels between them. This problem becomes similar to Travelling Salesman Problem which is an optimisation problem. As a prototype of what further could be done with this project we have solved this problem using Variational Quantum Eigensolver. Thus as the number of people and distances increase an optimal way to set up the quantum channels can be determined.
