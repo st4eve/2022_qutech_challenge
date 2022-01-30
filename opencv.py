@@ -7,6 +7,7 @@ import numpy as np
 # read QR code and save the code in a file(QPcode_result.txt)
 def read_QRcodes(frame):
     QRcodes = pyzbar.decode(frame)
+    QRcode_info = 0
     for QRcode in QRcodes:
         x, y, w, h = QRcode.rect
         # decode QR code and put rectangle around the QR code
@@ -14,7 +15,7 @@ def read_QRcodes(frame):
         cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 2)
         with open("QRcode_result.txt", mode='w') as file:
             file.write(QRcode_info)
-    return frame
+    return (frame, QRcode_info)
 
 
 # read the medical image with the QR coded name
