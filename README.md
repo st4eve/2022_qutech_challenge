@@ -38,33 +38,8 @@ As the number of people between who the information is to be shared increases it
 ## Our Experience at IT iQuHACK 2022
 **Mark Long**:  
 **Tristan Austin**:  I really enjoyed the hackathon this weekend. All of my collaborators were a pleasure to work with and I learned a lot about quantum key distribution and general python programming. I would definitely participate again and I could not reccomend this experience enough to anyone who has the slightest interest in quantum computation development.
-**Freya Shah**:  
+**Freya Shah**:   I had the most amazing time working with my teammates and discusiing different ideas and just working on building something. I learned a lot from my teammates. I was interesting to see everyone's dedication and staying up late to work on the project inspite of being in different timezones. I had a great weekend and it just increased my interest and motivated me to learn more.
 **Paridhi Jain**: It was a very enriching experience for me, I am still a novice in quantum computing field and I learnt a lot from my fellow teammates. It was highly enjoyable and super cool to work with my teammates. It was interesting that we were all from different time zones and we were working together variedly. Looking forward to work with them again! :))  
 **Hyun Lee**: Amazing three days with great people. It was a bit hard to get teammates in gather town but after all, I met super cool teammates and learnt a lot from them. It was so fun to see our brainstorming finally flows in one direction. Experience of making something together with others which I can't make by myself gave me such a big energy to dive more into this quantum computing field. Thank you iQuHACK 2022 for this wonderful event!    
-
-
-# QuTech Challenges @ MIT iQuHACK 2022
-
-<p align="left">
-  <a href="https://qutech.nl" target="_blank"><img src="https://user-images.githubusercontent.com/10100490/151484481-7cedb7da-603e-43cc-890c-979fb66aeb60.png" width="25%" style="padding-right: 0%"/></a>
-  <a href="https://iquhack.mit.edu/" target="_blank"><img src="https://user-images.githubusercontent.com/10100490/151647370-d161d5b5-119c-4db9-898e-cfb1745a8310.png" width="10%" style="padding-left: 0%"/> </a>
-</p>
-
-
-## Description 
-
-For the 2022 edition of the iQuHack (interdisciplinary Quantum HACKathon), [QuTech](https://qutech.nl) has partnered with the team at MIT to propose 2 challenges, hosted in our own multi-hardware Quantum Technology platform, [Quantum Inspire](https://www.quantum-inspire.com). These aim to draw participants to the challenges at the heart of our mission: to develop scalable prototypes of a quantum computer and an inherently safe quantum internet, based on the fundamental laws of quantum mechanics.
-
-To qualify for the QuTech Division Challenge, participants should submit a project that addresses either the proposed Quantum Error Correction (QEC) challenge or the Quantum Key Distribution (QKD) challenge. Detailed descriptions of these two challenges and their goals are available in the documents linked below (hosted in this repository):
-
-- [Quantum Error Correction Challenge](https://github.com/iQuHACK/2022_qutech_challenge/blob/main/QuantumErrorCorrectionChallenge.pdf)
-- [Quantum Key Distribution Challenge](https://github.com/iQuHACK/2022_qutech_challenge/blob/main/QuantumKeyDistrubutionChallenge.pdf)
-
-
-## Scoring and Submission
-
-**Rubric:** https://docs.google.com/document/u/1/d/e/2PACX-1vR5PVoInN_Fi42lIOchhblgGBPblgNyouj1XHukonZ4sdqY-p5ulS9TxdzvddEcDNFc5k_6teFyKzXv/pub
-
-**Submission:** Please visit https://iquhack.mit.edu/ for details on how to submit your project.
 
 
