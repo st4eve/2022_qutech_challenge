@@ -35,7 +35,7 @@ As the number of people between who the information is to be shared increases it
 
 ## Quick Tutorial
 
-## Our Experience at IT iQuHACK 2022
+## Our Experience at MIT iQuHACK 2022
 **Mark Long**:  
 
 **Tristan Austin**:  I really enjoyed the hackathon this weekend. All of my collaborators were a pleasure to work with and I learned a lot about quantum key distribution and general python programming. I would definitely participate again and I could not reccomend this experience enough to anyone who has the slightest interest in quantum computation development.
