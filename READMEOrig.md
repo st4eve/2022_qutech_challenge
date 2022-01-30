@@ -1,6 +1,10 @@
 # QueueMeet
+**A prototype conference call software utilizing quantum key distribution for telemedicine applications.**
 
-A prototype conference call software utilizing quantum key distribution for telemedicine applications.
+<img width="586" alt="Screenshot 2022-01-30 at 19 42 44" src="https://user-images.githubusercontent.com/53221131/151696489-60ef17a0-62e3-49e9-b77b-a6eb7aed8075.png">
+
+Using this application, people can send sensitive data such as medical images with the QR code of the data file's name during a video call.
+This prototype recognizes the QR code from camera input and gets the target image file's name in the host server. However, key point is that not everyone can see this data even though they are in this conference call and get the QR code. Using QKD, only the person whom the host intended to show the data can get the right key to open the image file from the server. QKD protects the communication so that any unwanted eavesdropper can not get the target data.  
 
 The application can be seperated into four different subsections:
 1. Quantum Key Distribution (QKD)
@@ -26,9 +30,18 @@ The UI was coded using PySimpleGUI. It involves very simple image display featur
 
 
 ## VQE Client Host Optimization
+As the number of people between who the information is to be shared increases it becomes difficult to figure out the best possible and optimal way to set up quantum channels between them. This problem becomes similar to Travelling Salesman Problem which is an optimisation problem. As a prototype of what further could be done with this project we have solved this problem using Variational Quantum Eigensolver. Thus as the number of people and distances increase an optimal way to set up the quantum channels can be determined.
 
 
 ## Quick Tutorial
+
+## Our Experience at IT iQuHACK 2022
+**Mark Long**:  
+**Tristan Austin**:  
+**Freya Shah**:  
+**Paridhi Jain**: It was a very enriching experience for me, I am still a novice in quantum computing field and I learnt a lot from my fellow teammates. It was highly enjoyable and super cool to work with my teammates. It was interesting that we were all from different time zones and we were working together variedly. Looking forward to work with them again! :))  
+**Hyun Lee**: Amazing three days with great people. It was a bit hard to get teammates in gather town but after all, I met super cool teammates and learnt a lot from them. It was so fun to see our brainstorming finally flows in one direction. Experience of making something together with others which I can't make by myself gave me such a big energy to dive more into this quantum computing field. Thank you iQuHACK 2022 for this wonderful event!    
+
 
 # QuTech Challenges @ MIT iQuHACK 2022
 
@@ -53,4 +66,5 @@ To qualify for the QuTech Division Challenge, participants should submit a proje
 **Rubric:** https://docs.google.com/document/u/1/d/e/2PACX-1vR5PVoInN_Fi42lIOchhblgGBPblgNyouj1XHukonZ4sdqY-p5ulS9TxdzvddEcDNFc5k_6teFyKzXv/pub
 
 **Submission:** Please visit https://iquhack.mit.edu/ for details on how to submit your project.
+
 
