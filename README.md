@@ -37,9 +37,13 @@ As the number of people between who the information is to be shared increases it
 
 ## Our Experience at IT iQuHACK 2022
 **Mark Long**:  
+
 **Tristan Austin**:  I really enjoyed the hackathon this weekend. All of my collaborators were a pleasure to work with and I learned a lot about quantum key distribution and general python programming. I would definitely participate again and I could not reccomend this experience enough to anyone who has the slightest interest in quantum computation development.
+
 **Freya Shah**:   I had the most amazing time working with my teammates and discusiing different ideas and just working on building something. I learned a lot from my teammates. I was interesting to see everyone's dedication and staying up late to work on the project inspite of being in different timezones. I had a great weekend and it just increased my interest and motivated me to learn more.
+
 **Paridhi Jain**: It was a very enriching experience for me, I am still a novice in quantum computing field and I learnt a lot from my fellow teammates. It was highly enjoyable and super cool to work with my teammates. It was interesting that we were all from different time zones and we were working together variedly. Looking forward to work with them again! :))  
+
 **Hyun Lee**: Amazing three days with great people. It was a bit hard to get teammates in gather town but after all, I met super cool teammates and learnt a lot from them. It was so fun to see our brainstorming finally flows in one direction. Experience of making something together with others which I can't make by myself gave me such a big energy to dive more into this quantum computing field. Thank you iQuHACK 2022 for this wonderful event!    
 
 
